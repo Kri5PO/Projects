@@ -17,7 +17,7 @@
 удаленности от центра. Проведена предобработка данных. Добавлены новые данные.
 Построены гистограммы, графики, диаграммы рассеяния.
 
-[Открыть Notebook](https://duckduckgo.com)
+[Открыть Notebook](https://github.com/Kri5PO/Projects/blob/main/02_Анализ_%20рынка_недвижимости/flats_sale_ads.ipynb)
 
 
 ```python
