@@ -12,7 +12,7 @@
 
 Применена динамическая загрузка данных **ImageDataGenerator**. В качестве модели использована нейронная сеть с одним нейроном. Модели задан класс **Sequential**. Применена архитектура ResNet50, активация ReLU, глобальный двумерный пулинг усреднением GlobalAveragePooling2D, алгоритм Adam.
 
-[Открыть Notebook](https://duckduckgo.com)
+[Открыть Notebook](https://github.com/Kri5PO/Projects/blob/main/13_Обработка_фотографий_покупателя/photo.ipynb)
 
 
 ```python
