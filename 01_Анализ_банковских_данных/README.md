@@ -23,7 +23,7 @@
 - Есть ли зависимость между уровнем дохода и возвратом кредита в срок?
 - Как разные цели кредита влияют на его возврат в срок?
 
-[Открыть Notebook](https://duckduckgo.com)
+[Открыть Notebook](https://github.com/Kri5PO/Projects/blob/main/01_Анализ_банковских_данных/credit_bank.ipynb)
 
 
 ```python
