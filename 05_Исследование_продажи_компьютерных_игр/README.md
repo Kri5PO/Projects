@@ -20,9 +20,9 @@
 
 *Проект выполнен в двух вариантах оформления: с использованием библиотеки **Plotly** и библиотеки **Seaborn**.*
 
-[Открыть Notebook с Plotly](https://duckduckgo.com)
+[Открыть Notebook с Plotly](https://github.com/Kri5PO/Projects/blob/main/05_Исследование_продажи_компьютерных_игр/games_plotly.ipynb)
 
-[Открыть Notebook с Seaborn](https://duckduckgo.com)
+[Открыть Notebook с Seaborn](https://github.com/Kri5PO/Projects/blob/main/05_Исследование_продажи_компьютерных_игр/games_seaborn.ipynb)
 
 
 ```python
