@@ -22,8 +22,8 @@
 
 - Лучшая модель: **CatBoostClassifier(random_state=123, iterations=51, cat_features=['geography', 'gender'])** с upsampling.
 - Метрики на тестовой выборке: 
-      - F1-мера = 0.597, 
-      - ROC_AUC = 0.855
+            - F1-мера = 0.597, 
+            - ROC_AUC = 0.855
 
 [Открыть Notebook](https://github.com/Kri5PO/Projects/blob/main/06_Прогнозирование_оттока_клиента_банка/bank.ipynb)
 
