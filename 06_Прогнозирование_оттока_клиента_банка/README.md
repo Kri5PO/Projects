@@ -12,6 +12,10 @@
 
 Источник данных: https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling
 
+## Статус проекта
+
+ЗАВЕРШЕН
+
 ## Решение
 
 `Python` `Pandas` `Matplotlib` `Scikit-learn` `CatBoost`
